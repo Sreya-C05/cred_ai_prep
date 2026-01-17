@@ -1,1 +1,1 @@
-# cred_ai_prep
+This is a simple java program that prints the message "Hello,World" on the console
